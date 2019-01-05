@@ -1,0 +1,2 @@
+# Assets
+My static assets
